@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitApp</string>
+
+    <string name="user">Usuario</string>
+    <string name="token">Github token</string>
+    <string name="login">Ingresar</string>
+    <string name="fingerprint">Ingresar con huella</string>
+
+    <string name="biometric_auth">Autenticación biométrica</string>
+    <string name="biometric_sensor">Pon tu huella dactilar en el sensor biométrico</string>
+
+    <string name="loading">Cargando</string>
+    <string name="welcome">Bienvenido</string>
+
+    <string name="account">Cuenta</string>
+    <string name="public_repos">%d repositorio(s) públicos</string>
+    <string name="created_at">Creado el %s</string>
+    <string name="change_account">Cambiar cuenta</string>
+
+    <string name="input_error">Espacio requerido.</string>
+</resources>
